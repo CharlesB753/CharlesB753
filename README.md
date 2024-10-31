@@ -1,5 +1,5 @@
-- I’m Charles Belisle (@CharlesB753), a BackEnd Developer for Desjardins
-- How to reach me: Charles.Belisle@mail.mcgill.ca
+- I’m Charles B (@CharlesB753)
+- How to reach me: CharlesB753@gmail.com
 
 <!---
 CharlesB753/CharlesB753 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
